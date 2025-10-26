@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SmartSummaryPython", "SmartSummaryPython\SmartSummaryPython.pyproj", "{E2CEF914-D74F-437C-AB2E-8B9072A2D38C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2CEF914-D74F-437C-AB2E-8B9072A2D38C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2CEF914-D74F-437C-AB2E-8B9072A2D38C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3496C76-F083-4A0B-899E-8C280B3849AE}
+	EndGlobalSection
+EndGlobal
